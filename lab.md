@@ -13,4 +13,4 @@
 | `touch file1` | Creates file1 |
 | `code .` | Launch coding environment |
 
-blah
+![picture of terminal](https://miro.medium.com/max/1400/1*cVGMPCNSI262dOjSl2u_Qw.png)
