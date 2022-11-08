@@ -19,3 +19,7 @@
 2. [Link2](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj74_601p_7AhXES8AKHXnuBJIQFnoECAoQAQ&url=https%3A%2F%2Fwww.geeksforgeeks.org%2Fcommand-line-arguments-in-c-cpp%2F&usg=AOvVaw2KOgJJY1gMaFOVCy9xLo2M)
 
 ![picture of terminal](https://miro.medium.com/max/1400/1*cVGMPCNSI262dOjSl2u_Qw.png)
+
+### ***.gitignore:***
+
+gitignore is a text file where each line contains a pattern for files or directories to ignore. It is usually placed at the root of the project folder. Alternatively, you can put it in any folder in the repository and a project can have multiple.
